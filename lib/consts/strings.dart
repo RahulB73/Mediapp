@@ -1,0 +1,42 @@
+const email = "Email";
+const emailHint = "Enter Your Email";
+const password = "Password";
+const passHint = "Enter Your Password";
+const retypePass = "Re-type Password";
+const name = "Name";
+const nameHint = "Enter Your Name";
+const forgetPass = "Forget Password ?";
+const signup = "Sign UP";
+const login = "Log IN";
+const logout = "Logout";
+const createNewPass = "Create A New Account";
+const logInWith = "Log In with";
+const termsAndCondition = "Terms & Coditions &";
+const privacyPolicy = "Privacy Policy";
+const alreadyHaveAnAcc = "Already have an account ?";
+const dontHaveAccount = "Don't have account ?";
+const welcome = "Welcome Back !";
+const weAreExcited = "We Are Excited to have you back 😊";
+const exploring = "Create Your Account And Start Exploring 🤗";
+const welcomes = "🤗 Welcome ";
+const search = "Search Doctor";
+const brain = "Brain";
+const heart = "Heart";
+const tooth = "Tooth";
+const eye = "eye";
+const ear = "Ear";
+const liver = "Liver";
+const category = "Category";
+const settings = "Settings";
+const doctor = "Doctor Login";
+const changePassword = "Change Password";
+const details = "Details";
+const termsConditons = "Terms & Conditions";
+const logOut = "Log Out";
+const blood = "Blood Test";
+const urine = "Urine Test";
+const stool = "Stool Test";
+const mri = "MRI";
+
+
+
